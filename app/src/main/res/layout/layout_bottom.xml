@@ -40,7 +40,6 @@
                 android:textColor="#777"
                 android:padding="22dp"
                 android:textSize="22sp"
-
                 app:layout_constraintStart_toStartOf="@+id/tvPicFromGallery"
                 app:layout_constraintTop_toBottomOf="@+id/tvPicFromGallery" />
 
